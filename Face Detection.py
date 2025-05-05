@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 import face_recognition
 from deepface import DeepFace
+print('test')
 
 # 3D model points for head pose estimation
 MODEL_POINTS = np.array([
